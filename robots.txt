@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://benchmarklandsurveying.github.io/sitemap.xml
