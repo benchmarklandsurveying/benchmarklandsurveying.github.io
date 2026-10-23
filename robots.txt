@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://nyamupatrick6.github.io/ardhi-ai/sitemap.xml
